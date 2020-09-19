@@ -1,4 +1,4 @@
-#TCP Network with added delay
+TCP Network with added delay
 
 Overview:
 
